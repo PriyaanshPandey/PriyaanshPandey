@@ -24,14 +24,6 @@
 
 <br/>
 
-<!-- Profile Picture — centered, prominent -->
-<img src="https://avatars.githubusercontent.com/PriyaanshPandey"
-     alt="Priyaansh Pandey"
-     width="180"
-     style="border-radius:50%; border:4px solid #22c55e;" />
-
-<br/>
-
 **`Full Stack Web Developer · MERN Stack · Open to Work`**
 
 <br/>
