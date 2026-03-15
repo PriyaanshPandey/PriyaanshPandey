@@ -18,10 +18,4 @@ I DO FULL STACK WEB DEVELOPMENT
 src="https://img.shields.io/github/followers/PriyaanshPandey?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/PriyaanshPandey"><img src="https://github-readme-stats.vercel.app/api?username=PriyaanshPandey&show_icons=true&hide=stars,issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="PriyaanshPandey's GitHub stats" /></a>
-
-<a href="http://www.github.com/PriyaanshPandey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyaanshPandey&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/PriyaanshPandey" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaanshPandey&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
